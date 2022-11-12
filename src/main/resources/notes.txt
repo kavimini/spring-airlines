@@ -1,0 +1,8 @@
+Jupiter Airlines
+-check from - to ticket availability
+- seat types
+- passenger details
+- ticket booking -price
+
+-ticket information
+

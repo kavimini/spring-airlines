@@ -1,4 +1,4 @@
-package com.airlines.application.model;
+package com.airlines.application.entity;
 
 import java.util.Date;
 

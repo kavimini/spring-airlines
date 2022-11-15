@@ -2,7 +2,7 @@ package com.airlines.application.service;
 
 import java.util.List;
 
-import com.airlines.application.model.Customer;
+import com.airlines.application.entity.Customer;
 
 public interface CustomerService {
 	

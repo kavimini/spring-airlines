@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.airlines.application.model.Customer;
+import com.airlines.application.entity.Customer;
 import com.airlines.application.service.CustomerService;
 
 @RestController
